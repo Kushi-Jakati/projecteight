@@ -72,9 +72,9 @@ public class MainFind {
         
         // print out the words ArrayList (just to double check on my end that 
         //everything is working)
-        for (int i = 0; i < words.size(); i++) {
-            System.out.println(words.get(i));
-        }
+        // for (int i = 0; i < words.size(); i++) {
+        //     System.out.println(words.get(i));
+        // }
 
         //2) get all repeating words from the ArrayList and insert them into a new
         // ArrayList. This is without the first occurrence of the word, so I need to keep that in mind.
